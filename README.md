@@ -15,3 +15,7 @@ This project is licensed under the BSD-3-Clause license. You can obtain a copy o
 If you encounter any problems or have any questions during the use of this project, you are welcome to contact the author in the following ways:
 Email: Ruriuiz@gmail.com
 GitHub: [Jinrui](https://github.com/Ruiruiz30)
+
+## IIIII. Paper
+Doi: https://doi.org/10.1007/s10462-024-10986-x
+
